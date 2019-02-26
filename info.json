@@ -1,10 +1,13 @@
 {
   "name": "ExpensiveCliffs",
-  "version": "0.1.2",
-  "factorio_version": "0.16",
+  "version": "0.1.3",
+  "factorio_version": "0.17",
   "title": "Expensive Cliffs",
   "author": "lovely_santa",
+  "contact": "https://mods.factorio.com/mod/ExpensiveCliffs/discussion",
   "homepage": "https://mods.factorio.com/mod/ExpensiveCliffs",
   "description": "Make cliffs even a worse nightmare, now it's a real challange to destroy them even!",
-   "dependencies": ["base >= 0.16.20"]
+  "dependencies": [
+    "base >= 0.17.0"
+  ]
 }
